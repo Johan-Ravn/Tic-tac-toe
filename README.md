@@ -1,5 +1,2 @@
 # Tic-tac-toe
-Tic tac toe game + ui in Js
-
-
-First Js attempt
+Tic tac toe game + ui in C
